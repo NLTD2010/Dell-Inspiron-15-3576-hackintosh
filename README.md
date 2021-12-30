@@ -10,7 +10,7 @@
 
 
 # Dell Inspiron 15 3576 hackintosh
-- You can download my EFI at [releases](https://github.com/NLTD2010/Dell-Inspiron-15-3576-hackintosh/releases) tab or clone this Repo
+## You can download my EFI at [releases](https://github.com/NLTD2010/Dell-Inspiron-15-3576-hackintosh/releases) tab or clone this Repo
 ![Screenshot](screen.png)
 
 ## ⚠ MacOS Supported
