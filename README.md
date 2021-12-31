@@ -24,7 +24,7 @@
 
 ## ℹ️ System infomation
 
-  * CPU: Intel® Core™ i3-8100 3,60 GHz
+  * CPU: Intel Core i5 Kabylake Refresh 8250U1.6GHz
   * GPU: Intel Uhd 620 kabylake R
   * RAM : 4gb
   * Wireless: yes
