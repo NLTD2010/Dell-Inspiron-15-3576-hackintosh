@@ -308,8 +308,6 @@
 				<data>AADAhw==</data>
 				<key>device-id</key>
 				<data>FlkAAA==</data>
-				<key>enable-hdmi20</key>
-				<data>FlkAAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
@@ -1255,11 +1253,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>FVF929501QX00001M</string>
+			<string>xxxxxxxxxxxxxxxxx</string>
 			<key>ProcessorType</key>
-			<integer>1793</integer>
+			<integer>0</integer>
 			<key>ROM</key>
-			<data>OeMpKaRM</data>
+			<data>xxxxxxxx</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1267,9 +1265,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFZ30J8L40Y</string>
+			<string>xxxxxxxxxxxx</string>
 			<key>SystemUUID</key>
-			<string>67E284BC-E045-459F-963E-027B0440FBB3</string>
+			<string>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
