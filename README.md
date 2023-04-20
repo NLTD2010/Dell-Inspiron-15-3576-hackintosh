@@ -29,6 +29,7 @@
   * Webcam: Yes
   * Headphone & Speaker: Yes
   * Bluetooth: yes
+  * Wifi: Intel (i don't remember, replace from qca9377)
 
 ## ☑️ Status Overview
 <details>
@@ -47,8 +48,8 @@
 | Webcam | ✅ Working |
 | FileVault | ✅ Working |
 | iMessage, Facetime & AppStore | ✅ Working |
-  
-# You should random your serial number 😅😅
+ </details>
+# Important ⚠️:You should random your serial number 😅😅
 
 
 
